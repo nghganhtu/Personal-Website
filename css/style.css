@@ -272,6 +272,10 @@ header {
   margin: 1rem 0;
 }
 
+.about-data .btn {
+  margin-top: 1.8rem;
+}
+
 .btn {
   font-size: 0.97rem;
   display: inline-flex;
